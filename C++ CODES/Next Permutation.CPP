@@ -3,3 +3,9 @@ Implement next permutation, which rearranges numbers into the lexicographically 
 If such an arrangement is not possible, it must rearrange it as the lowest possible order (i.e., sorted in ascending order).
 
 The replacement must be in place and use only constant extra memory.
+class Solution {
+public:
+    void nextPermutation(vector<int>& nums) {
+        
+    }
+};
